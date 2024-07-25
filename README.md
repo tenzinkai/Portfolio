@@ -4,5 +4,4 @@
 
  - HTML
  - CSS
- - SASS
 ### Thank You for visiting my profile.
